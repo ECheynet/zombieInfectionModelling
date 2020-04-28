@@ -6,7 +6,7 @@ Matlab code for the simulation of a zombie outbreak
 
 ## Summary
 
-In 2009, Munz et al. [1] have written a pedagogical paper that helps to understand how to solve systems of coupled differential equations. it dealt with the simulation of zombie infection among the human population. The model they use is here implemented in Matlab using a slightly different approach than used in [1].
+In 2009, Munz et al. [1] have written a pedagogical paper that helps to understand how to solve systems of coupled differential equations. it dealt with the simulation of zombie infection among the human population. The model is here implemented in Matlab using a slightly different approach than by [1].
 
 ## Content
 
